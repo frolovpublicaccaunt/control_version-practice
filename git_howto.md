@@ -80,3 +80,6 @@ git branch -D<branch_name>
 Вот пример
 
 ![git image](git.jpeg)
+
+## Работа с удаленными репозиториями. Сервис GitHub.
+
